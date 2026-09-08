@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3870-count-commas-in-range](https://github.com/ADI032912/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 ## Interactive
 |  |
 | ------- |
