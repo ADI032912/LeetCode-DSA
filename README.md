@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ADI032912/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
