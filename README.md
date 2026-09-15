@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ADI032912/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ADI032912/LeetCode-DSA/tree/master/0575-distribute-candies) |
+| [0665-non-decreasing-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0665-non-decreasing-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
