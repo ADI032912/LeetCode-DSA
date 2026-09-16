@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/ADI032912/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0665-non-decreasing-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0665-non-decreasing-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/ADI032912/LeetCode-DSA/tree/master/0328-odd-even-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
