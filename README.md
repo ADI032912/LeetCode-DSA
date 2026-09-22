@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/ADI032912/LeetCode-DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/ADI032912/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0263-ugly-number) |
+| [0441-arranging-coins](https://github.com/ADI032912/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3870-count-commas-in-range](https://github.com/ADI032912/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
