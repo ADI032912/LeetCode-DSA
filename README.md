@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/ADI032912/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
