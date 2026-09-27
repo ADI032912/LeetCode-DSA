@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0165-compare-version-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADI032912/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0165-compare-version-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/ADI032912/LeetCode-DSA/tree/master/0520-detect-capital) |
