@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
