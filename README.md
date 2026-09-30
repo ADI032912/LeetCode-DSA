@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ADI032912/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ADI032912/LeetCode-DSA/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0665-non-decreasing-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/ADI032912/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADI032912/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ADI032912/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
