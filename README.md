@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/ADI032912/LeetCode-DSA/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ADI032912/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADI032912/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ADI032912/LeetCode-DSA/tree/master/1046-last-stone-weight) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
