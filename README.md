@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ADI032912/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -151,16 +152,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
