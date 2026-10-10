@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0665-non-decreasing-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/ADI032912/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -176,14 +178,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/ADI032912/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
