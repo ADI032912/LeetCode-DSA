@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ADI032912/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ADI032912/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0507-perfect-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/ADI032912/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
