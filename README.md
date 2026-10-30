@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ADI032912/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/ADI032912/LeetCode-DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADI032912/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ADI032912/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/ADI032912/LeetCode-DSA/tree/master/0120-triangle) |
 ## Binary Search Tree
 |  |
 | ------- |
