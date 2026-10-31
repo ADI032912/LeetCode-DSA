@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ADI032912/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ADI032912/LeetCode-DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ADI032912/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/ADI032912/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0263-ugly-number) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/ADI032912/LeetCode-DSA/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
