@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADI032912/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ADI032912/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/ADI032912/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ADI032912/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
