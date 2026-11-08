@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1046-last-stone-weight](https://github.com/ADI032912/LeetCode-DSA/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ADI032912/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0912-sort-an-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ADI032912/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ADI032912/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
