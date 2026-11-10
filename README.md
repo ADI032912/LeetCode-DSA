@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ADI032912/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/ADI032912/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0665-non-decreasing-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ADI032912/LeetCode-DSA/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ADI032912/LeetCode-DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/ADI032912/LeetCode-DSA/tree/master/0120-triangle) |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -289,4 +293,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ADI032912/LeetCode-DSA/tree/master/0089-gray-code) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
