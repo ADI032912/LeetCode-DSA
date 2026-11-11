@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/ADI032912/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADI032912/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ADI032912/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ADI032912/LeetCode-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/ADI032912/LeetCode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ADI032912/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ADI032912/LeetCode-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
