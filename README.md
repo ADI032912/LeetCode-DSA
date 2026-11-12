@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/ADI032912/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/ADI032912/LeetCode-DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADI032912/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
