@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/ADI032912/LeetCode-DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ADI032912/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/ADI032912/LeetCode-DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ADI032912/LeetCode-DSA/tree/master/0135-candy) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
