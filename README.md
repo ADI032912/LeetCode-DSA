@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/ADI032912/LeetCode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ADI032912/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ADI032912/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
