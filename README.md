@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADI032912/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0481-magical-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ADI032912/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1332-remove-palindromic-subsequences](https://github.com/ADI032912/LeetCode-DSA/tree/master/1332-remove-palindromic-subsequences) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
+| [0481-magical-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/ADI032912/LeetCode-DSA/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
