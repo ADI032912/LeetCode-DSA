@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ADI032912/LeetCode-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ADI032912/LeetCode-DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADI032912/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ADI032912/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ADI032912/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ADI032912/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ADI032912/LeetCode-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ADI032912/LeetCode-DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ADI032912/LeetCode-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/ADI032912/LeetCode-DSA/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ADI032912/LeetCode-DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search Tree
 |  |
 | ------- |
