@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/ADI032912/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ADI032912/LeetCode-DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/ADI032912/LeetCode-DSA/tree/master/1332-remove-palindromic-subsequences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ADI032912/LeetCode-DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ADI032912/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ADI032912/LeetCode-DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ADI032912/LeetCode-DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ADI032912/LeetCode-DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
