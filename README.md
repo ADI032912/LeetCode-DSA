@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ADI032912/LeetCode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/ADI032912/LeetCode-DSA/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ADI032912/LeetCode-DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/ADI032912/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ADI032912/LeetCode-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ADI032912/LeetCode-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ADI032912/LeetCode-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ADI032912/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ADI032912/LeetCode-DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ADI032912/LeetCode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
