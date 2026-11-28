@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ADI032912/LeetCode-DSA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ADI032912/LeetCode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ADI032912/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/ADI032912/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/ADI032912/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ADI032912/LeetCode-DSA/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ADI032912/LeetCode-DSA/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0165-compare-version-numbers) |
+| [0224-basic-calculator](https://github.com/ADI032912/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/ADI032912/LeetCode-DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ADI032912/LeetCode-DSA/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/ADI032912/LeetCode-DSA/tree/master/0415-add-strings) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ADI032912/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/ADI032912/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0856-score-of-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ADI032912/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ADI032912/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADI032912/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/ADI032912/LeetCode-DSA/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/ADI032912/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
